@@ -1,13 +1,12 @@
 ### Hi, I´m Lautaro 👋 ![imagen](https://user-images.githubusercontent.com/41178381/191742225-c03ef07f-bfe9-4957-bef1-a574b3efdd9a.png)
 
-
 ```js 
 import SoftwareDeveloper from 'roblesLautaro';
 
 class Bio extends SoftwareDeveloper {
   name     = 'Robles Lautaro';
   title    = 'Fullstack Web Developer';
-  company  = 'currently searching | Remote';
+  company  = 'undefined | Remote';
   location = 'La Plata, Argentina';
 }
 
@@ -18,6 +17,17 @@ class Skills extends SoftwareDeveloper {
   tools = ['Slack', 'Figma', 'Vscode', 'Discord', 'Docker', 'Git']
 }
 ```
+👨🏻•computer About Me!
+
+
+    thinking   Exploring new technologies and developing software solutions and quick hacks.
+
+    mortar_board   Studying Computer Science and Engineering at UNLP and coding stuffs.
+
+    writing_hand   Pursuing Web Development as hobbies/side hustles.
+
+
+
 
 <!--
 **lautaro012/lautaro012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
