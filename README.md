@@ -20,11 +20,11 @@ class Skills extends SoftwareDeveloper {
 👨🏻•computer About Me!
 
 
-    thinking   Exploring new technologies and developing software solutions and quick hacks.
+    🤔  Exploring new technologies and developing software solutions and quick hacks.
 
-    mortar_board   Studying Computer Science and Engineering at UNLP and coding stuffs.
+    👯   Studying Computer Science and Engineering at UNLP and coding stuffs.
 
-    writing_hand   Pursuing Web Development as hobbies/side hustles.
+    💬   Pursuing Web Development as hobbies/side hustles.
 
 
 
