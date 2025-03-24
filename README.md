@@ -5,15 +5,15 @@ import SoftwareDeveloper from 'roblesLautaro';
 
 class Bio extends SoftwareDeveloper {
   name     = 'Robles Lautaro';
-  title    = 'Fullstack Web Developer';
-  company  = 'undefined | Remote';
-  location = 'La Plata, Argentina';
+  title    = 'Fullstack Web/Mobile Developer';
+  company  = 'Freelance | Remote';
+  location = 'Trelew, Ch , Argentina';
 }
 
 class Skills extends SoftwareDeveloper {
-  languages  = ['JavaScript', 'Typescript', 'HTML', 'CSS'];
+  languages  = ['JavaScript', 'Typescript', 'HTML', 'CSS', 'Kotlin', 'C#'];
   databases  = ['MySQL', 'MongoDB', 'PostgreSQL'];
-  frameworks = ['React', 'React Native'];
+  frameworks = ['React', 'React Native', 'Nest'];
   tools = ['Slack', 'Figma', 'Vscode', 'Discord', 'Docker', 'Git']
 }
 ```
